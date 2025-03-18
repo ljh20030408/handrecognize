@@ -78,9 +78,6 @@ darknet53.py	|函数|	卷积神经网络结构
 loss.py	|函数|	计算图像检测效果
 yolo3.py	|函数	|Yolov3网络识别算法
 
-
->openpose和yolov3相结合参考：
-
 ## 5.beyes分类识别
 
 识别部分代码结构:
